@@ -1,0 +1,94 @@
+terminal commands
+
+pwd 
+print working directory
+(shows which directory we're currently in)
+
+ls
+list files and directory from current or whatever you specify
+
+ls -l
+list files in longer format
+
+ls -a
+list all files (includes "dotfiles" aka hiddin files)
+
+cd
+change directory
+
+rm 
+remove files or directories
+
+rm -rf
+recursively removes files and directories
+
+cat
+prints file contents
+
+nano 
+text editor
+
+vi/vim
+other text editor 
+
+mv 
+move files/directories
+
+sudo
+permission to do awesome things
+
+touch 
+create empty file
+
+mkdir
+makes a directory 
+
+clear
+clears the screen
+
+rmdir
+removes a directory
+
+wildcards
+* is a placeholder for "anything"
+? is a placemholder for a single character
+
+. 
+current directory (aka here)
+
+..
+Move up a directory (parent directory)
+
+~
+Home dir 
+
+!!
+Repeats the last command 
+
+man
+Manual pages for a given command
+
+(with any command) --help
+
+cp
+copies files 
+
+cp -r
+recursively copy folders
+
+Bash - what allows you to type in the commands. Terminal is the window that contains bash.
+
+\ means escape character (treat next character literally)
+" " means treat everything inside literally 
+- : single character options (e.g. -l)
+-- : "word" options (e.g. --help)
+:q - most of the time, quit
+
+(arrow up) 
+command history
+
+(tab)
+completes command/filename
+
+
+
